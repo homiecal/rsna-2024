@@ -1,0 +1,5 @@
+*.zip
+yolo/models
+yolo/images
+yolo/labels
+severity-classification/*

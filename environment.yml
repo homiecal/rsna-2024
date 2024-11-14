@@ -1,0 +1,5 @@
+name: rsna_2024
+channels:
+  - defaults
+prefix: C:\Users\Callum\Anaconda3\envs\rsna_2024
+
